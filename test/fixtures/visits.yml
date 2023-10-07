@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  visitante: one
+  setor: one
+  funcionario: one
+  horario: 2023-10-07 13:46:42
+
+two:
+  visitante: two
+  setor: two
+  funcionario: two
+  horario: 2023-10-07 13:46:42
